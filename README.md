@@ -1,2 +1,14 @@
-# dom-simple-todo-list
-Projeto simples para praticar manipulação de DOM utilizando HTML, CSS e TypeScript.
+# Lista de Tarefas
+
+Projeto simples de uma To-Do List feito para praticar manipulação de DOM com HTML, CSS e TypeScript.
+
+## Funcionalidades
+
+- Adicionar tarefas
+- Renderizar tarefas dinamicamente na tela
+
+## Tecnologias
+
+- HTML
+- CSS
+- TypeScript
