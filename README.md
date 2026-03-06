@@ -12,3 +12,5 @@ Projeto simples de uma To-Do List feito para praticar manipulação de DOM com H
 - HTML
 - CSS
 - TypeScript
+
+- githubPages: https://4ndreluis.github.io/dom-simple-todo-list/
